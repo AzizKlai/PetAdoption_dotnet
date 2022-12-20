@@ -1,4 +1,4 @@
-namespace PetAdoption_dotnet_project.Models;
+namespace PetAdoption_dotnet.Models;
 
 public class ErrorViewModel
 {

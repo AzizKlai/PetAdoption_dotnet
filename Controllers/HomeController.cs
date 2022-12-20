@@ -1,8 +1,8 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using PetAdoption_dotnet_project.Models;
+using PetAdoption_dotnet.Models;
 
-namespace PetAdoption_dotnet_project.Controllers;
+namespace PetAdoption_dotnet.Controllers;
 
 public class HomeController : Controller
 {

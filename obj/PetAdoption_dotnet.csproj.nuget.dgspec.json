@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\vscode_proj\\charpproj\\PetAdoption_dotnet_project\\PetAdoption_dotnet_project.csproj": {}
+    "c:\\Users\\user\\Documents\\vscode_proj\\charpproj\\PetAdoption_dotnet\\PetAdoption_dotnet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\vscode_proj\\charpproj\\PetAdoption_dotnet_project\\PetAdoption_dotnet_project.csproj": {
+    "c:\\Users\\user\\Documents\\vscode_proj\\charpproj\\PetAdoption_dotnet\\PetAdoption_dotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\vscode_proj\\charpproj\\PetAdoption_dotnet_project\\PetAdoption_dotnet_project.csproj",
-        "projectName": "PetAdoption_dotnet_project",
-        "projectPath": "C:\\Users\\user\\Documents\\vscode_proj\\charpproj\\PetAdoption_dotnet_project\\PetAdoption_dotnet_project.csproj",
+        "projectUniqueName": "c:\\Users\\user\\Documents\\vscode_proj\\charpproj\\PetAdoption_dotnet\\PetAdoption_dotnet.csproj",
+        "projectName": "PetAdoption_dotnet",
+        "projectPath": "c:\\Users\\user\\Documents\\vscode_proj\\charpproj\\PetAdoption_dotnet\\PetAdoption_dotnet.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\vscode_proj\\charpproj\\PetAdoption_dotnet_project\\obj\\",
+        "outputPath": "c:\\Users\\user\\Documents\\vscode_proj\\charpproj\\PetAdoption_dotnet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
