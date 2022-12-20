@@ -11,10 +11,15 @@ public class HomeController : Controller
     public HomeController(ILogger<HomeController> logger)
     {
         _logger = logger;
+        
     }
 
     public IActionResult Index()
-    {
+    {   // to get the absolute path of db
+              string path = ".";
+              string fullPath = Path.GetFullPath(path);
+              Console.WriteLine(fullPath);
+              // to get the absolute path of db
         return View();
     }
 

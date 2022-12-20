@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PetAdoption_dotnet.props" />
+</Project>

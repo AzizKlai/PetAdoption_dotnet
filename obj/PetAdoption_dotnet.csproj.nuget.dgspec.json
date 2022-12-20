@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\user\\Documents\\vscode_proj\\charpproj\\PetAdoption_dotnet\\PetAdoption_dotnet.csproj": {}
+    "C:\\Users\\user\\Documents\\vscode_proj\\charpproj\\PetAdoption_dotnet\\PetAdoption_dotnet.csproj": {}
   },
   "projects": {
-    "c:\\Users\\user\\Documents\\vscode_proj\\charpproj\\PetAdoption_dotnet\\PetAdoption_dotnet.csproj": {
+    "C:\\Users\\user\\Documents\\vscode_proj\\charpproj\\PetAdoption_dotnet\\PetAdoption_dotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\user\\Documents\\vscode_proj\\charpproj\\PetAdoption_dotnet\\PetAdoption_dotnet.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\vscode_proj\\charpproj\\PetAdoption_dotnet\\PetAdoption_dotnet.csproj",
         "projectName": "PetAdoption_dotnet",
-        "projectPath": "c:\\Users\\user\\Documents\\vscode_proj\\charpproj\\PetAdoption_dotnet\\PetAdoption_dotnet.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\vscode_proj\\charpproj\\PetAdoption_dotnet\\PetAdoption_dotnet.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\user\\Documents\\vscode_proj\\charpproj\\PetAdoption_dotnet\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\vscode_proj\\charpproj\\PetAdoption_dotnet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
