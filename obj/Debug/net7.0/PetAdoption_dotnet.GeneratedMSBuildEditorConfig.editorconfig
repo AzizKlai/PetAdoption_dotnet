@@ -32,6 +32,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/user/Documents/vscode_proj/charpproj/PetAdoption_dotnet/Views/Vet/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmV0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Documents/vscode_proj/charpproj/PetAdoption_dotnet/Views/Vet/Vet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmV0XFZldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Documents/vscode_proj/charpproj/PetAdoption_dotnet/Views/Vet/VetById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmV0XFZldEJ5SWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/user/Documents/vscode_proj/charpproj/PetAdoption_dotnet/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
